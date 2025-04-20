@@ -79,9 +79,11 @@ pip install -r requirements.txt
   "title": "Startup News – TechCrunch",
   "heading": "Startups"
 }
+
 ![Instance](https://github.com/user-attachments/assets/6e71f54e-710e-402e-aa7f-04acb0191372)
 ![Assignment](https://github.com/user-attachments/assets/03c9bd2a-a22c-4ecf-b225-abce3a43908b)
 
+From-->http://54.161.227.172:5000/
 
 🤝 Credits
 This project was developed as part of a DevOps assignment, showcasing:
