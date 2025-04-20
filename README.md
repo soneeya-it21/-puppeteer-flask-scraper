@@ -81,8 +81,9 @@ pip install -r requirements.txt
 }
 
 ![Instance](https://github.com/user-attachments/assets/6e71f54e-710e-402e-aa7f-04acb0191372)
-![Assignment](https://github.com/user-attachments/assets/03c9bd2a-a22c-4ecf-b225-abce3a43908b)
-
+![assignment](https://github.com/user-attachments/assets/4aaff107-889b-4be0-96ab-2d8e4f382bb7)
+![Instance running](https://github.com/user-attachments/assets/77b52317-0984-4a66-b367-a6784ce21db7)
+![security groups](https://github.com/user-attachments/assets/49e3bb4c-cfeb-4810-abb7-abefc8ad8681)
 From-->http://54.161.227.172:5000/
 
 🤝 Credits
@@ -92,6 +93,6 @@ Cross-language integration using Node.js + Python
 Efficient and minimal Docker multi-stage builds
 
 🧠 Author
-Soneeya
+Soneeya-it21
 Connect on GitHub
 
